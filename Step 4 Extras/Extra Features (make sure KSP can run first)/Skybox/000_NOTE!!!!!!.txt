@@ -1,0 +1,6 @@
+ALL SKYBOXES REQUIRE TEXTURE REPLACER.
+http://forum.kerbalspaceprogram.com/threads/107471
+
+FOR RESPAWNTWO'S SKYBOX:
+go into the Default folder of TextureReplacer and copy the contents of the zip
+in to the Default folder.

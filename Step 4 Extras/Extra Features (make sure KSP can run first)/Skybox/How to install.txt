@@ -1,5 +1,0 @@
-First, install this:
-http://kerbal.curseforge.com/ksp-mods/220217-texturereplacer
-
-Once that's done, copy the textures into GameData/TextureReplacer/Default.
-Overwrite any existing files.
